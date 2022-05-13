@@ -1,6 +1,6 @@
 Hello There! 🙋‍♂️
 
-This is a repository consisting of various projects that I take up during my free time. 📚
+This is a repository consisting of various projects that I take up. 📚
 
 If you're here it either means you clicked on the various links I put out over the internet or you found this out of boredom after searching around. 👀
 
